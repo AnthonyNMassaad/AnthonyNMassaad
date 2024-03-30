@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source projects related to AI and machine learning, especially those focused on social good, educational tools, and innovative applications of AI in healthcare and environmental conservation.
 
-📫 How to reach me: You can contact me or follow me on LinkdIn [@AnthonyNMassaad](https://www.linkedin.com/in/anthony-nasry-massaad/) for the latest updates on my projects and interests in AI.
+📫 How to reach me: You can contact me or follow me on LinkdeIn [@AnthonyNMassaad](https://www.linkedin.com/in/anthony-nasry-massaad/) for the latest updates on my projects and interests in AI.
 
 
 <!---
