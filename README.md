@@ -1,15 +1,37 @@
-👋 Hi, I’m @AnthonyNMassaad
+<h2 align="center">👋 Hello World, I’m Anthony Massaad</h2>
 
-👀 I’m interested in machine learning, artificial intelligence, and exploring how these technologies can solve real-world problems.
+---
 
-🌱 I’m currently learning advanced deep learning techniques, including neural network architectures. I'm also diving into the world of reinforcement learning and how it can be applied to autonomous systems.
+🎓 **Master's Student in Cybersecurity** at **Louisiana State University (LSU)**  
+🔐 Passionate about **Cybersecurity** and interested in **AI/ML**
 
-🤝 I’m looking to collaborate on open-source projects related to AI and machine learning, especially those focused on social good, and innovative applications of AI in healthcare and finance.
+---
 
-📫 How to reach me: You can contact me or follow me on LinkdeIn [@AnthonyNMassaad](https://www.linkedin.com/in/anthony-nasry-massaad/) for the latest updates on my projects and interests in AI.
+### 💡 Interests
+- **Blue team** cybersecurity and defense strategies  
+- **Machine learning** and its potential in security and automation  
+- Exploring how **AI** can support fields like **healthcare** and **finance**  
+- **Open-source collaboration** and practical projects
 
+---
 
-<!---
-AnthonyNMassaad/AnthonyNMassaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📚 Currently Exploring
+- Cybersecurity concepts and tools  
+- Fundamentals of **machine learning** and **artificial intelligence**  
+- Real-world applications of tech for **social good**
+
+---
+
+### 🤝 Let’s Collaborate
+I’m open to contributing to **open-source projects** or academic collaborations in:
+- Cybersecurity (especially defensive/blue team topics)  
+- Intro-level AI/ML applications  
+- Tech for positive impact
+
+---
+
+### 📫 Contact Me
+- 📧 Email: [anthonynasrymassaad@gmail.com](mailto:anthonynasrymassaad@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/anthonynmassaad](https://www.linkedin.com/in/anthonynmassaad)
+
+---
