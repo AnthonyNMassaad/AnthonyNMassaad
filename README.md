@@ -10,7 +10,6 @@
 ### 💡 Interests
 - **Blue team** cybersecurity and defense strategies  
 - **Machine learning** and its potential in security and automation  
-- Exploring how **AI** can support fields like **healthcare** and **finance**  
 - **Open-source collaboration** and practical projects
 
 
@@ -21,7 +20,7 @@
 - Real-world applications of tech for **social good**
 
 
-### 🤝 Let’s Collaborate
+### 🤝 Collab
 I’m open to contributing to **open-source projects** or academic collaborations in:
 - Cybersecurity (especially defensive/blue team topics)  
 - Intro-level AI/ML applications  
