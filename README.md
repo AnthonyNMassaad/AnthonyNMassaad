@@ -1,7 +1,5 @@
 <h2 align="center"> Hello World</h2>
 
----
-
 🎓 **Master's Student in Cybersecurity** at **Louisiana State University (LSU)**  
 🔐 Passionate about **Cybersecurity** and interested in **AI/ML**
 
