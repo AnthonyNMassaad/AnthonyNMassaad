@@ -31,5 +31,3 @@ I’m open to contributing to **open-source projects** or academic collaboration
 ### 📫 Contact Me
 - 📧 Email: [anthonynasrymassaad@gmail.com](mailto:anthonynasrymassaad@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/anthonynmassaad](https://www.linkedin.com/in/anthonynmassaad)
-
----
