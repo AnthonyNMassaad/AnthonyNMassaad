@@ -16,7 +16,3 @@ Working at the intersection of AI and cybersecurity, with a focus on machine and
 Open to research and open-source collaboration in:
 - Cybersecurity (defensive systems, IDS, automotive security)  
 - Applied ML/DL for security use cases  
-
-### Contact
-Email: anthonynasrymassaad@gmail.com  
-LinkedIn: https://www.linkedin.com/in/anthonynmassaad
